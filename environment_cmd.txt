@@ -1,0 +1,4 @@
+conda create -n potbot python=3.6
+conda activate potbot
+conda install -c conda-forge pyautogui, pywinauto
+conda install opencv
